@@ -11,6 +11,7 @@ https://localhost:44337/swagger-ui/
 
 Port 44337 can be chnaged on your local enviornment.
 
+<<<<<<< HEAD
 test 
 test
 test
@@ -18,3 +19,6 @@ test
 test 6
 test
 
+=======
+test 
+>>>>>>> cbb6c87 (test)
