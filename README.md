@@ -20,6 +20,7 @@ Port 44337 can be chnaged on your local enviornment.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 3c119a7 (test3)
 test 
@@ -68,6 +69,9 @@ test1
 =======
 =======
 >>>>>>> 4e79dd7 (test)
+=======
+
+>>>>>>> 73a83a7 (test message 2)
 test 
 test
 test
@@ -80,7 +84,11 @@ test
 =======
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 test1
 >>>>>>> 6e5b276 (test1)
 =======
 >>>>>>> 3dc7863 (test message)
+=======
+
+>>>>>>> 73a83a7 (test message 2)
