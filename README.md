@@ -79,5 +79,8 @@ test
 >>>>>>> b5772e7 (Test PR Comment)
 =======
 
+<<<<<<< HEAD
 test1
 >>>>>>> 6e5b276 (test1)
+=======
+>>>>>>> 3dc7863 (test message)
