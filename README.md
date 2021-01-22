@@ -30,5 +30,8 @@ test
 >>>>>>> 9ba86c3 (test)
 =======
 
+<<<<<<< HEAD
 test1
 >>>>>>> 824440a (test1)
+=======
+>>>>>>> 6f8f592 (test message)
