@@ -52,4 +52,8 @@ test1
 test
 
 
+<<<<<<< HEAD
 >>>>>>> 33fb066 (Revert "test message 2")
+=======
+test1
+>>>>>>> 6441fcc (Revert "test message")
