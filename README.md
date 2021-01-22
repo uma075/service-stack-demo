@@ -51,9 +51,12 @@ test1
 =======
 test
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 >>>>>>> 33fb066 (Revert "test message 2")
 =======
 test1
 >>>>>>> 6441fcc (Revert "test message")
+=======
+>>>>>>> 868471c (Revert "test1")
