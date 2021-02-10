@@ -22,6 +22,8 @@ Port 44337 can be chnaged on your local enviornment.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 3c119a7 (test3)
 test 
@@ -107,4 +109,26 @@ test
 >>>>>>> 5e68061 (test3)
 =======
 
+<<<<<<< HEAD
 >>>>>>> 1963446 (test branch)
+=======
+
+change in test branch
+
+<<<<<<< HEAD
+>>>>>>> 326a550 (.)
+=======
+Test change in feature branch
+
+<<<<<<< HEAD
+>>>>>>> 3c4f86d (test1)
+=======
+Test change in feature branch
+
+test1
+>>>>>>> 56e9e16 (.)
+=======
+>>>>>>> 3f91e71 (Update README.md)
+=======
+test 2
+>>>>>>> 8abde7e (Update README.md)
