@@ -103,4 +103,8 @@ test1
 test 6
 test
 
+<<<<<<< HEAD
 >>>>>>> 5e68061 (test3)
+=======
+
+>>>>>>> 1963446 (test branch)
