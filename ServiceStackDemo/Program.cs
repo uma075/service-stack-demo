@@ -13,10 +13,7 @@ namespace ServiceStackDemo
     public class Program
     {
         public static void Main(string[] args)
-        {
-
-
-
+        {//test
             CreateWebHostBuilder(args).Build().Run();
         }
 
